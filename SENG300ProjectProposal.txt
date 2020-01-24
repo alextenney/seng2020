@@ -1,0 +1,13 @@
+Project Management Software
+•	Organizational Hierarchy and Workflow Process
+•	Assign Tasks to employees
+o	Assign status on these tasks
+•	Schedules
+o	Milestones
+o	Deadlines
+•	Feedback and Issues Tracking
+•	Uploading and Downloading of Files
+•	Profiles for each employees
+•	Needs to “POP”
+•	Purple
+Website: Javascript and Ruby on Rails with sqlite
